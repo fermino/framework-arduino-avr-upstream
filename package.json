@@ -1,0 +1,18 @@
+{
+  "name": "framework-arduino-avr-upstream",
+  "version": "1.8.6",
+  "description": "Arduino AVR Core (upstream)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "avr",
+    "upstream"
+  ],
+  "homepage": "https://www.arduino.cc/reference/en",
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fermino/platformio-ArduinoCore-avr-upstream"
+  }
+}
